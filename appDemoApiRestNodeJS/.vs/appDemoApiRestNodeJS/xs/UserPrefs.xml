@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{FCB58C9E-4441-4449-8E38-4DF6B5F20420}|Default">
+  <MonoDevelop.Ide.ItemProperties.appDemoApiRestNodeJS.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.ItemProperties.appDemoApiRestNodeJS.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.885D3435-9C8E-4E6B-926C-68A0A8B6253E" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="appDemoApiRestNodeJS" expanded="True">
+            <Node name="appDemoApiRestNodeJS" expanded="True" />
+            <Node name="appDemoApiRestNodeJS.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

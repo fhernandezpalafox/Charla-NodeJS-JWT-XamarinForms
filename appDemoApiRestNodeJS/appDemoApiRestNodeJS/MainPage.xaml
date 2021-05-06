@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appDemoApiRestNodeJS.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="20" CornerRadius="0">
+            <Label FontFamily="Fontello" Text="&#xE800; Api Rest NodejS" Padding="10,30,10,5" HorizontalTextAlignment="Center" TextColor="White" FontSize="25"/>
+        </Frame>
+        <ListView x:Name="MiLista"
+                  SelectionMode="None"
+                  ItemTapped="MiLista_ItemTapped"
+                  IsPullToRefreshEnabled="true"
+                  RefreshControlColor="#2196F3">
+            <ListView.ItemTemplate>
+                <DataTemplate >
+                    <TextCell Text="{Binding nombre}"
+                              Detail="{Binding apellidos}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/bin/Debug/netstandard2.0/appDemoApiRestNodeJS.deps.json
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/bin/Debug/netstandard2.0/appDemoApiRestNodeJS.dll
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/bin/Debug/netstandard2.0/ref/appDemoApiRestNodeJS.dll
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/bin/Debug/netstandard2.0/appDemoApiRestNodeJS.pdb
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.AssemblyInfoInputs.cache
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.AssemblyInfo.cs
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.dll
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/ref/appDemoApiRestNodeJS.dll
+/Users/felipehernandez/Projects/appDemoApiRestNodeJS/appDemoApiRestNodeJS/obj/Debug/netstandard2.0/appDemoApiRestNodeJS.pdb
